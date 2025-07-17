@@ -5,4 +5,4 @@ Hello world! I'm using Git!
 - `git status` - this checks the status of the changes made in my files
 - `git add filename.extension`- this stages the file
 - `git commit -m "this is a commit message"` - message for the commit , where and where it was committed
-- `git push` uploads the files 
+- `git push` - uploads the files 
